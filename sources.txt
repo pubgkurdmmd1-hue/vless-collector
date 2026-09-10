@@ -1,0 +1,16 @@
+# vless-collector - sources
+# هر خط یا کانال تلگرام است یا لینک ساب.
+# فرمت کانال (بدون @):
+#   tg:channelname
+# فرمت لینک ساب:
+#   https://...
+# خط‌هایی که با # شروع می‌شوند نادیده گرفته می‌شوند.
+#
+# --- کانال‌های تلگرام ---
+tg:meliproxyy
+tg:V2ray_Alpha
+tg:V2ray_official
+tg:V2ry_Proxy
+#
+# --- منبع پشتیبان (اگه خواستی فقط کانال‌ها باشن، این خط را پاک کن) ---
+https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/Splitted-By-Protocol/vless.txt
