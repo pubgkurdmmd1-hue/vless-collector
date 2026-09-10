@@ -1,0 +1,13 @@
+name = "vless-collector"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "RESULTS"
+id = "dc3c548786744fe1b30ef9c3fef2e3c9"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "vless-history"
+database_id = "ca0fcf10-780a-4069-9903-512d86385179"
