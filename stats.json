@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-14T08:39:58.843178+00:00",
-  "run_id": "20260914T083827Z",
+  "updated_at": "2026-09-14T09:06:37.041624+00:00",
+  "run_id": "20260914T090510Z",
   "total_runs": 1,
   "sources": {
     "channels": [
@@ -17,6 +17,6 @@
   "published": 7,
   "fast": 7,
   "kept_previous": false,
-  "duration_s": 91,
+  "duration_s": 87,
   "summary": "7/120 published"
 }
